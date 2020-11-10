@@ -1,0 +1,28 @@
+html,
+body,
+div {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+table.colormap {
+  border: none;
+}
+
+table.colormap tr {
+  border: none;
+}
+
+table.colormap td {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom: none;
+}
+
+table.colormap tbody td label {
+  display: none;
+}
