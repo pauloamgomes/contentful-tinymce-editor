@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/contentful-tinymce-editor/static/css/main.00ceed79.chunk.css",
+    "main.js": "/contentful-tinymce-editor/static/js/main.38dd355d.chunk.js",
+    "main.js.map": "/contentful-tinymce-editor/static/js/main.38dd355d.chunk.js.map",
+    "runtime-main.js": "/contentful-tinymce-editor/static/js/runtime-main.68a12ebd.js",
+    "runtime-main.js.map": "/contentful-tinymce-editor/static/js/runtime-main.68a12ebd.js.map",
+    "static/css/2.e072614b.chunk.css": "/contentful-tinymce-editor/static/css/2.e072614b.chunk.css",
+    "static/js/2.93c8d5f5.chunk.js": "/contentful-tinymce-editor/static/js/2.93c8d5f5.chunk.js",
+    "static/js/2.93c8d5f5.chunk.js.map": "/contentful-tinymce-editor/static/js/2.93c8d5f5.chunk.js.map",
+    "index.html": "/contentful-tinymce-editor/index.html",
+    "static/css/2.e072614b.chunk.css.map": "/contentful-tinymce-editor/static/css/2.e072614b.chunk.css.map",
+    "static/css/main.00ceed79.chunk.css.map": "/contentful-tinymce-editor/static/css/main.00ceed79.chunk.css.map",
+    "static/js/2.93c8d5f5.chunk.js.LICENSE.txt": "/contentful-tinymce-editor/static/js/2.93c8d5f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68a12ebd.js",
+    "static/css/2.e072614b.chunk.css",
+    "static/js/2.93c8d5f5.chunk.js",
+    "static/css/main.00ceed79.chunk.css",
+    "static/js/main.38dd355d.chunk.js"
+  ]
+}
